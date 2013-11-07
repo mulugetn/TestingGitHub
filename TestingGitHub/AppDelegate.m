@@ -4,7 +4,7 @@
 //
 //  Created by MAN on 11/7/13.
 //  Copyright (c) 2013 Mulugeta A Nega. All rights reserved.
-//Testing git hub
+//Just testing git hub
 
 #import "AppDelegate.h"
 
